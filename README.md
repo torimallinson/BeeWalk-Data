@@ -41,7 +41,7 @@ The dataset `BeeWalk_data.csv` contains the following key columns:
 - `ExtremeEvent`: Combines `ExtremeHeat` and `ExtremeCold` into a single categorical variable.
 
 ## Steps to Run the Code
-1. Place the `BeeWalk_data.csv` file in the same directory as the script.
+1. Unzip and place the `BeeWalk_data.csv` file in the same directory as the script.
 2. Run the script using the following command:
    ```bash
    python BeeWalk.py
